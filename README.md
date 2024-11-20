@@ -67,7 +67,7 @@ The Telegram bot was created for Russia, but it contains some databases of Uzbek
 ### [Yellow Pages](https://en.yellowpages.uz) 
 ### [Getcontact](https://getcontact.com) work as well
 ### Try [OSINT Industries](https://app.osint.industries)
-Looks like their database for phone numbers in Central Asian countries is growing. Non-free. Nice free options for investigators
+Their search for phone numbers in Central Asian countries is growing. Non-free. Nice free options for investigators
 
 
 ## Public procurement
