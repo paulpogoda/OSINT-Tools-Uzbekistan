@@ -58,8 +58,7 @@ The resource provides individuals and legal entities with unimpeded access to in
 - [Cadastre and Agriculture - Full list](https://dgov.uz/ru/solution-category/7/)
 
 ## Vehicles
-### [Issuance of a vehicle history certificate](https://my.gov.uz/ru/service/621)
-Non-free. Authorization required
+- [Issuance of a vehicle history certificate](https://my.gov.uz/ru/service/621). Non-free. Authorization required
 
 
 ## People
