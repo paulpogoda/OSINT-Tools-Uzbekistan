@@ -11,7 +11,7 @@ Fell free to join to this project — [OSINT For Countries V2.0](https://github.
 ## Table of content:
  - [Open Data portals](#open-data-portals)
  - [Legal Entities](#legal-entities)
- - [Cadastral Maps](#maps)
+ - [Cadastral and other Maps](#maps)
  - [Vehicles](#vehicles)
  - [People, phones, social etc.](#people)
  - [Public procurements](#public-procurement)
@@ -63,7 +63,7 @@ The resource provides individuals and legal entities with unimpeded access to in
 
 ## People
 - [Eye of God](https://t.me/yfzxzxqwqbot). 
-The Telegram bot was created for Russia, but it contains some databases of Uzbek telecom operators. Non-free. Search by phone number, name, email, etc.
+The Telegram bot was created for Russia, but it contains some databases of Uzbek telecom operators. Non-free. Search by phone number, name, email, etc. Paid
 - [Yellow Pages](https://en.yellowpages.uz). 
 - [Getcontact](https://getcontact.com) work as well
 - Try [OSINT Industries](https://app.osint.industries)
