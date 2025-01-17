@@ -6,7 +6,7 @@ Here's a list of OSINT tools that may be useful when conducting investigations r
 Unless further clarified, the site or project has a main version in Uzbek and Russian  even if English versions seem to be available on menus or About sections. They aren't (smile). To use a part of the sources you need a registration or tax identification number (or local IP address). So for deeper OSINT, you have to find a friend in Uzbekistan. Have you been there? No? Then you should [visit this country](https://www.visituzbekistan.co).
 
 ## Contributions
-Fell free to join to this project — [OSINT For Countries V2.0](https://github.com/paulpogoda/OSINT-for-countries-V2.0)
+Feel free to join this project — [OSINT For Countries V2.0](https://github.com/paulpogoda/OSINT-for-countries-V2.0)
 
 ## Table of contents:
  - [Open Data portals](#open-data-portals)
